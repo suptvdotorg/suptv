@@ -8,6 +8,7 @@ sites:
     url: https://www.suptv.org
 
 status-website:
+  theme: dark
   baseUrl: /suptv
   logoUrl: https://www.suptv.org/favicon.ico
   name: Suptv Statuss
