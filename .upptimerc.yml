@@ -10,9 +10,6 @@ sites:
     url: https://www.suptv.org
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: suptv.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /suptv
   logoUrl: https://www.suptv.org/favicon.ico
   name: Upptime
