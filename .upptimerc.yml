@@ -11,7 +11,7 @@ status-website:
   theme: dark
   baseUrl: /suptv
   logoUrl: https://www.suptv.org/favicon.ico
-  name: Suptv Statuss
+  name: Suptv Status
   introTitle: Suptv Uptime & Status
   introMessage: This is a status page for suptv.org
   navbar:
