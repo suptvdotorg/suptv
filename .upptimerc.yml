@@ -6,14 +6,14 @@ repo: suptv # Your GitHub repository name
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Suptv
+    url: https://www.suptv.org
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: suptv.org
+  # cname: suptv.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /suptv
   logoUrl: https://www.suptv.org/favicon.ico
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
